@@ -88,3 +88,12 @@ Do not deploy this in production without additional security hardening.
 
 ---
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+*Built as part of a cybersecurity internship task.*
+
+
